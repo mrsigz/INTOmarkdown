@@ -19,7 +19,7 @@ Uppsetningin gekk snuðrulaust fyrir sig, downloadaði virtualbox og ubuntu frá
 
 [Verkefnið] [1]
 
-[1]: https://github.com/mrsigz/INTOmarkdown "Verkefnið mitt á github."
+[1]: https://github.com/mrsigz/INTOprufa "Verkefnið mitt á github."
 
 ## 4. Uppsettur hugbúnaður
 
